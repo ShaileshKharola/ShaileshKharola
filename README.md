@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 Aspiring Developer | Cybersecurity Enthusiast<br>👯 Final-year B.Tech (Computer Science) student<br>🤝 Passionate about Web Development and Cybersecurity <br>in modern digital scenarios<br>
+👯 Final-year B.Tech (Computer Science) student<br>🤝 Passionate about Web Development and Cybersecurity <br>in modern digital scenarios.<br>🔐 Driven to combine development with cybersecurity for smarter, safer software.
+
+
 
 
 ## 🌐 Socials:
